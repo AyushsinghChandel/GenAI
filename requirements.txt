@@ -2,3 +2,4 @@ langchain
 langchain_openai
 dotenv
 langchain_google_genai
+streamlit
