@@ -5,7 +5,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 import streamlit as st
 
 llm = ChatGoogleGenerativeAI(
-    model="gemini-3.7-flash",
+    model="gemini-3.6-flash",
     temperature=1.0,
     max_retries=0,
 )
