@@ -5,3 +5,4 @@ langchain_google_genai
 streamlit
 langchain-ollama
 langchain-groq
+search1api-langchain
