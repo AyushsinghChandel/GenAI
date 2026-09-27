@@ -7,3 +7,4 @@ langchain-ollama
 langchain-groq
 search1api-langchain
 langgraph
+langchain-community
