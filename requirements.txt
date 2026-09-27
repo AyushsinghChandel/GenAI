@@ -6,3 +6,4 @@ streamlit
 langchain-ollama
 langchain-groq
 search1api-langchain
+langgraph
