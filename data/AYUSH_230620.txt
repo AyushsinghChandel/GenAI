@@ -1,0 +1,48 @@
+AYUSH SINGH CHANDEL
++91-9693794566 ⋄ Pune, Maharashtra, India
+ayushsinghchandel1610@gmail.com ⋄ linkedin.com/in/ayushsingh ⋄ github.com/Ayushsingh
+EDUCATION
+Army Institute of Technology, Pune Aug 2023 – Expected May 2027
+Bachelor of Engineering, Electronics and Telecommunication Engineering CGPA: 8.17
+SKILLS
+Languages C/C++, JavaScript, TypeScript, SQL
+Frontend React.js, Next.js, Tailwind CSS, Redux, Recoil
+Backend Node.js, Express.js, REST APIs, WebSockets, Serverless
+Databases PostgreSQL, MongoDB, Redis, Prisma, Mongoose
+DevOps AWS (EC2, S3), Docker, CI/CD, Git, Turborepo
+CS Fundamentals DSA, OOPs, DBMS, Computer Networks
+EXPERIENCE
+Smart India Hackathon (Inter-College) Sep 2024 – Oct 2024
+• Led a 5-member team to build IntellectGuard, a unified MERN stack platform centralizing trademark registration,
+patent filing, and research publishing into a single ecosystem.
+• Spearheaded project planning and UI/UX design, conducted regular agile meetings and creating highly interactive prototypes in Figma.
+• Developed a secure backend architecture utilizing Express.js, implementing JWT for secure session management and Zod
+for strict schema validation, ultimately securing 2nd Position in the competition.
+PROJECTS
+PhotoAI Sep 2025 – Dec 2025
+• Engineered a full-stack AI photo studio utilizing Next.js and fal.ai, allowing users to train face models on personal photos
+and generate customized images via specific prompts and style packs.
+• Integrated AWS S3 with presigned URLs for secure image storage and implemented Clerk for seamless authentication
+within a Turborepo monorepo architecture.
+• Enforced end-to-end type safety using Zod, ensuring robust API contracts and eliminating runtime errors between the
+frontend and backend.
+PayNet Feb 2025 – Mar 2025
+• Built a peer-to-peer payment application using the MERN stack, enabling users to connect and transfer funds instantly
+with guaranteed ACID atomicity.
+• Implemented MongoDB transactions to ensure atomic mid-transfer rollbacks, maintaining 100% accurate user balances
+during network or system failures.
+• Secured backend endpoints using JWT middleware and Zod validation to prevent unauthorized access and filter out
+malformed database requests.
+EasyDraw Jul 2025 – Aug 2025
+• Designed a real-time collaborative whiteboard utilizing Next.js and WebSockets, enabling remote teams to brainstorm and
+draw in secure, private rooms.
+• Deployed a dedicated WebSocket server to handle JWT-authenticated connections and room-based state broadcasting for
+seamless synchronization across multiple clients.
+• Persisted canvas state to PostgreSQL using Prisma ORM, ensuring robust data recovery and continuity across user sessions
+and page reloads.
+LEADERSHIP AND ACHIEVEMENTS
+• Won a Gold Medal (School Level) at the International Mathematics Olympiad (IMO).
+• Managed venue logistics and led the videography team for the annual Alumni Meet, hosting 500+ returning alumni.
+• Wrote screenplays and operated cameras for 3 short films and 2 music videos, managing the process from pre-production
+to post-production.
+• Regularly participate in recreational football and cricket matches.

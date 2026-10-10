@@ -8,3 +8,6 @@ langchain-groq
 search1api-langchain
 langgraph
 langchain-community
+pypdf
+beautifulsoup4
+wikipedia
